@@ -1,2 +1,4 @@
 # Indexes-comparison
-Emerging market indexes and developped market indexes comparison tool. 
+Emerging market indexes and developped market indexes comparison tool with Rstudio.
+
+
